@@ -1,0 +1,12 @@
+{ "columns":32,
+ "image":"./media/PathAndObjects.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"PathAndObjects",
+ "spacing":0,
+ "tilecount":1024,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}
